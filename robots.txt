@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://oscar-rodrigo.github.io/gh-pages/sitemap.xml
